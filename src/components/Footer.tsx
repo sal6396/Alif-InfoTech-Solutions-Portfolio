@@ -35,7 +35,7 @@ const Footer = () => {
           <div className="lg:col-span-1 space-y-6">
             <div className="flex items-center space-x-3">
               <img 
-                src="/public/1-removebg-preview.png" 
+                src={logo.image} 
                 alt="Alif InfoTech Solutions" 
                 className="h-20 w-auto"
               />
