@@ -81,8 +81,8 @@ I would like to discuss my project requirements with you.`;
     {
       icon: Globe,
       title: 'Website',
-      details: 'www.alifinfotech.com',
-      link: 'https://alifinfotech.com'
+      details: 'www.alifinfotechsolutions.com',
+      link: 'https://alifinfotechsolutions.com'
     }
   ];
 
