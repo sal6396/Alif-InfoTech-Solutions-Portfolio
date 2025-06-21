@@ -15,7 +15,7 @@ const Header = () => {
 
 const logo = [
     {
-      image: 'https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=600',
+      image: 'https://media.licdn.com/dms/image/v2/D560BAQEKouzGCjYxuQ/company-logo_100_100/company-logo_100_100/0/1735723211698/code_forged_logo?e=1755734400&v=beta&t=6DNaKtwCHssrS9lL773JHF0vYyFHrvpg3SlA8O7y5Qo',
     },
 ];
 
