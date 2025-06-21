@@ -25,7 +25,7 @@ const logo = [
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center space-x-3">
             <img 
-              src="/public/1-removebg-preview.png" 
+              src={logo.image} 
               alt="Alif InfoTech Solutions" 
               className="h-20 w-30"
             />
