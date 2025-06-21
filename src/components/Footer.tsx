@@ -20,6 +20,12 @@ const Footer = () => {
     'Terms of Service'
   ];
 
+  const logo = [
+    {
+      image: 'https://media.licdn.com/dms/image/v2/D560BAQEKouzGCjYxuQ/company-logo_100_100/company-logo_100_100/0/1735723211698/code_forged_logo?e=1755734400&v=beta&t=6DNaKtwCHssrS9lL773JHF0vYyFHrvpg3SlA8O7y5Qo',
+    },
+];
+
   const socialLinks = [
     { icon: Linkedin, href: 'https://www.linkedin.com/company/alif-infotech-solutions', label: 'LinkedIn' },
     { icon: Twitter, href: 'https://x.com/AlifInfoTechSol', label: 'Twitter' },
